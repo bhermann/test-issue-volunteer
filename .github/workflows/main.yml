@@ -6,6 +6,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: bhermann/issue-volunteer@v0.1.5
+    - uses: bhermann/issue-volunteer@v0.1.6
       with:
         milliseconds: 100
